@@ -13,4 +13,7 @@ to test the script you can test it in an interactive shell like this :
 chmod +x fzf-pdf.sh;
 bash -i ./fzf-pdf.sh
 ``` 
+## Customization
+change the variable `pdfViewer` in the script to your favorite pdf Viewer
+
 
